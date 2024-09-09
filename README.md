@@ -1,4 +1,5 @@
 # timespent (licensed under Apache 2.0)
+## Not a standalone lib; requires a Github client to function
 Python package for calculating time spent in Github
 Output is saved as a CSV file named output.csv
 Feel free to fork & modify output.
