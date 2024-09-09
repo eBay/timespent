@@ -1,0 +1,22 @@
+[project]
+dependencies = [
+    'clientwrapper',
+    'pandas'
+]
+name = "timespent"
+version = "0.0.7"
+authors = [
+    { name="Joseph Gonzalez Diaz", email="jgonzalezdiaz@ebay.com" },
+]
+description = "Python Package to Calculate time spent in Github"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache 2.0",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.corp.ebay.com/jgonzalezdiaz/timespent"
+Issues = "https://github.corp.ebay.com/jgonzalezdiaz/timespent/issues"
