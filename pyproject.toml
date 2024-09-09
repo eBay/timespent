@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.corp.ebay.com/jgonzalezdiaz/timespent"
-Issues = "https://github.corp.ebay.com/jgonzalezdiaz/timespent/issues"
+Homepage = "https://github.com/ebay/timespent"
+Issues = "https://github.com/ebay/timespent/issues"
