@@ -1,1 +1,0 @@
-For questions about contributing e-mail jgonzalezdiaz@ebay.com
