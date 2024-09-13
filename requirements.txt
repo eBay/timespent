@@ -1,2 +1,0 @@
-pandas~=2.2.2
-clientwrapper~=0.0.1
