@@ -1,0 +1,21 @@
+[project]
+dependencies = [
+    'clientwrapper',
+]
+name = "timespent"
+version = "1.0.0"
+authors = [
+    { name="Joseph Gonzalez Diaz", email="jgonzalezdiaz@ebay.com" },
+]
+description = "Python Package to Calculate time spent for any list of dict-like objects with date/time data"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ebay/timespent"
+Issues = "https://github.com/ebay/timespent/issues"
